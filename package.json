@@ -1,0 +1,16 @@
+{
+  "name": "google_drive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-drive": "0.0.8",
+    "googleapis": "^27.0.0",
+    "mime-types": "^2.1.21"
+  }
+}
